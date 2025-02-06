@@ -1,2 +1,2 @@
-# Sociallite
-Repository for Sociallite App  
+Sociallite
+Repository for Sociallite App 
