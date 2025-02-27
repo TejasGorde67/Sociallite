@@ -12,7 +12,7 @@ const Navbar = () => {
             <Link href="/" className="flex items-center">
               <Image
                 src="/socialite-img.png"
-                alt="Sociallite Logo"
+                alt="Socialite Logo"
                 width={120}
                 height={40}
                 className="h-auto w-auto"

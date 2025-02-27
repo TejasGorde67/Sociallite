@@ -1,2 +1,3 @@
-# Sociallite
-Repository for Sociallite
+# Socialite
+
+Repository for Socialite
